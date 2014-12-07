@@ -1,0 +1,37 @@
+{
+  "LEVEL_1":
+  {
+    "Spawn" : "10,10",
+    "Target" : "100, 100",
+    "Static" :
+    {
+      "Block":
+      {
+        "Position": "50,50",
+        "Rotation": "0,0,45"
+      },
+      "Block":
+      {
+        "Position": "0,50",
+        "Rotation": "0,0,90"
+      },
+      "Bonus":
+      {
+        "Position": "100,100",
+        "Rotation": "0,0,0"
+      }
+    },
+    "AllowedObjects" : 
+    {
+      "Block" : "2",
+      "Angled" : "0",
+      "Slowdown" : "0",
+      "Speedup" : "0",
+      "Ramp" : "0",
+      "Spring": "0"
+    }
+  }
+}
+
+
+http://forum.unity3d.com/threads/xml-reading-a-xml-file-in-unity-how-to-do-it.44441/
