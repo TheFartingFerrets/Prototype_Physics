@@ -16,8 +16,7 @@ TODO
   - Use less than 2 objects
   - Complete the level in x minutes/seconds
   - Dont use the Portals
-  - Dont use x
-  - 
+  - Dont use [x] objects/ dont use x object
 
 Level Objects
 =================
