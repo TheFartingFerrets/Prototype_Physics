@@ -12,6 +12,12 @@ TODO
 * Add rotating and flipping to the currently draggable objects
 * Build prototype "World" with a minimum of 4 levels.
 * Build/generate the level in the LevelLoader
+* Have 2 Main objective each level:
+  - Use less than 2 objects
+  - Complete the level in x minutes/seconds
+  - Dont use the Portals
+  - Dont use x
+  - 
 
 Level Objects
 =================
@@ -31,5 +37,10 @@ Level Objects
 
 EXTRA
 =================
-* Include a Tilt mechanic, with [n] amount per level
-* Include a bonus objective 
+* Include a Tilt mechanic, with [n] amount per level using the mobiles accelerometer
+* Include a bonus objective
+* Include a bonus collectable
+* Slow down the game when the roller is within proximity of the Target, Peggle style.
+
+
+# Create an epic trailer to show off my level #
