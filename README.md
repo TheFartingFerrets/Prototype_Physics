@@ -40,6 +40,8 @@ EXTRA
 * Include a bonus objective
 * Include a bonus collectable
 * Slow down the game when the roller is within proximity of the Target, Peggle style.
+* Giant Levels that require a lot of camera movements
+
 
 
 # Create an epic trailer to show off my level #
