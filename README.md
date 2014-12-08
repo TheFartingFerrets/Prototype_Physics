@@ -4,9 +4,32 @@ Prototype_Physics
 Prototype of the physics levels
 
 
-TODO::
-Develop a way to build the levels using XML, because im lazy.
+TODO
+=================
+* Prevent portals from working unless given a partner. i.e Receiver to Sender, Sender to Receiver
+* Build the levels via XML
+* Save the level status information for saveing and loading
+* Add rotating and flipping to the currently draggable objects
+* Build prototype "World" with a minimum of 4 levels.
+* Build/generate the level in the LevelLoader
 
-Develop a way to save the level inforamtion so that it can be saved and loaded.
+Level Objects
+=================
+* Roller
+* EndTarget
+* Standard Horizontal Block
+* Standard Vertical Block
+* Rotatable Block
+* Curve Block
+* Portal Receiver
+* Portal Sender
+* Speed Boost block
+* Ramp Block
+* Spring block
+* Button Block / Trigger Block
+* Activatable Block / Sliding block
 
-Add a way to allow the user to rotate the draggable objects, im thinking double tap opens the "Transform tools", allows for rotation, flip horizontal, flip vertical and remove/delete.
+EXTRA
+=================
+* Include a Tilt mechanic, with [n] amount per level
+* Include a bonus objective 
