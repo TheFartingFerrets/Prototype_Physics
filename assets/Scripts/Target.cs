@@ -1,26 +1,16 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Target : MonoBehaviour
+public class Target : MonoBehaviour 
 {
 
-
-
-
-    public void SetSpawn(Vector2 pos)
+    public void OnTriggerStay2D(Collider2D other)
     {
-        this.transform.position = pos;
-    }
-
-
-    public void OnTriggerEnter2D(Collider2D other)
-    {
-        if (other.tag == "Roller")
+        if( other.tag == "Roller")
         {
-            other.SendMessage("DecreaseSpeed");
-
-            LevelMaster.Instance.StartCoroutine("CompleteLevel");
-
+            Debug.DrawRay(rigidbody2D.position, other.rigidbody2D.position - rigidbody2D.position);
+            other.SendMessage("Sleep");
+            LevelMaster.instance.CompleteLevel();
         }
     }
 }

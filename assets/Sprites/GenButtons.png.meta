@@ -1,0 +1,1345 @@
+fileFormatVersion: 2
+guid: 412b4069fe0219d43995fa87784f7727
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BTN_LORANGE_RECT_IN
+    21300002: BTN_LORANGE_RECT_OUT
+    21300004: BTN_BLUE_RECT_OUT
+    21300006: BTN_RED_RECT_IN
+    21300008: BTN_GREEN_RECT_OUT
+    21300010: BTN_GREEN_RECT_IN
+    21300012: BTN_GRAY_RECT_IN
+    21300014: BTN_ORANGE_RECT_OUT
+    21300016: BTN_GRAY_RECT_OUT
+    21300018: BTN_BLUE_RECT_IN
+    21300020: BTN_ORANGE_RECT_IN
+    21300022: BTN_RED_RECT_OUT
+    21300024: BTN_ORANGE_CIRCLE_OUT
+    21300026: BTN_LORANGE_CIRCLE_IN
+    21300028: BTN_GRAY_CIRCLE_IN
+    21300030: BTN_RED_CIRCLE_IN
+    21300032: BTN_RED_CIRCLE_OUT
+    21300034: BTN_BLUE_CIRCLE_IN
+    21300036: BTN_GRAY_CIRCLE_OUT
+    21300038: BTN_ORANGE_CIRCLE_IN
+    21300040: BTN_BLUE_CIRCLE_OUT
+    21300042: BTN_LORANGE_CIRCLE_OUT
+    21300044: BTN_GREEN_CIRCLE_OUT
+    21300046: BTN_GREEN_CIRCLE_IN
+    21300048: BTN_GREEN_SQ
+    21300050: BTN_RED_SQ
+    21300052: BTN_BLK_TYPE_STATE (28)
+    21300054: BTN_ORANGE_SQ
+    21300056: BTN_GRAY_SQ
+    21300058: BTN_BLUE_SQ
+    21300060: BTN_SLIDER (1)
+    21300062: BTN_SLIDER (3)
+    21300064: BTN_SLIDER (6)
+    21300066: BTN_SLIDER (8)
+    21300068: BTN_SLIDER (10)
+    21300070: BTN_SLIDER (9)
+    21300072: BTN_SLIDER (2)
+    21300074: BTN_SLIDER (5)
+    21300076: BTN_SLIDER (11)
+    21300078: BTN_SLIDER (4)
+    21300080: BTN_SLIDER (12)
+    21300082: BTN_SLIDER (7)
+    21300084: BTN_VERT_ (12)
+    21300086: BTN_VERT_ (11)
+    21300088: BTN_VERT_ (13)
+    21300090: BTN_VERT_ (1)
+    21300092: BTN_VERT_ (16)
+    21300094: BTN_VERT_ (22)
+    21300096: BTN_VERT_ (23)
+    21300098: BTN_VERT_ (6)
+    21300100: BTN_VERT_ (7)
+    21300102: BTN_VERT_ (15)
+    21300104: BTN_VERT_ (17)
+    21300106: BTN_VERT_ (19)
+    21300108: BTN_VERT_ (25)
+    21300110: BTN_VERT_ (2)
+    21300112: BTN_VERT_ (18)
+    21300114: BTN_VERT_ (28)
+    21300116: BTN_VERT_ (27)
+    21300118: BTN_VERT_ (9)
+    21300120: BTN_VERT_ (5)
+    21300122: BTN_VERT_ (14)
+    21300124: BTN_VERT_ (30)
+    21300126: BTN_VERT_ (4)
+    21300128: BTN_VERT_ (21)
+    21300130: BTN_VERT_ (3)
+    21300132: BTN_VERT_ (26)
+    21300134: BTN_VERT_ (10)
+    21300136: BTN_VERT_ (29)
+    21300138: BTN_VERT_ (8)
+    21300140: BTN_VERT_ (24)
+    21300142: BTN_VERT_ (20)
+    21300144: BTN_SLIDER_SM (2)
+    21300146: BTN_SLIDER_SM (6)
+    21300148: BTN_SLIDER_SM (12)
+    21300150: BTN_SLIDER_SM (4)
+    21300152: BTN_SLIDER_SM (9)
+    21300154: BTN_SLIDER_SM (5)
+    21300156: BTN_PLAIN (3)
+    21300158: BTN_SLIDER_SM (8)
+    21300160: BTN_PLAIN (4)
+    21300162: BTN_PLAIN (5)
+    21300164: BTN_SLIDER_SM (11)
+    21300166: BTN_SLIDER_SM (7)
+    21300168: BTN_SLIDER_SM (10)
+    21300170: BTN_SLIDER_SM (1)
+    21300172: BTN_PLAIN (6)
+    21300174: BTN_PLAIN (2)
+    21300176: BTN_PLAIN (1)
+    21300178: BTN_SLIDER_SM (3)
+    21300180: BTN_CHECKBOX_IN
+    21300182: BTN_CHECKBOX_OUT
+    21300184: BTN_RADIO_IN
+    21300186: BTN_RADIO_OUT
+    21300188: BTN_HORIZ_SINGLE (15)
+    21300190: BTN_HORIZ_SINGLE (22)
+    21300192: BTN_HORIZ_SINGLE (2)
+    21300194: BTN_HORIZ_SINGLE (8)
+    21300196: BTN_HORIZ_SINGLE (14)
+    21300198: BTN_HORIZ_SINGLE (4)
+    21300200: BTN_HORIZ_SINGLE (19)
+    21300202: BTN_HORIZ_SINGLE (17)
+    21300204: BTN_HORIZ_SINGLE (1)
+    21300206: BTN_HORIZ_SINGLE (16)
+    21300208: BTN_HORIZ_SINGLE (12)
+    21300210: BTN_HORIZ_SINGLE (20)
+    21300212: BTN_HORIZ_SINGLE (10)
+    21300214: BTN_HORIZ_SINGLE (5)
+    21300216: BTN_HORIZ_SINGLE (23)
+    21300218: BTN_HORIZ_SINGLE (6)
+    21300220: BTN_HORIZ_SINGLE (3)
+    21300222: BTN_HORIZ_SINGLE (21)
+    21300224: BTN_HORIZ_SINGLE (9)
+    21300226: BTN_HORIZ_SINGLE (24)
+    21300228: BTN_HORIZ_SINGLE (13)
+    21300230: BTN_HORIZ_SINGLE (11)
+    21300232: BTN_HORIZ_SINGLE (7)
+    21300234: BTN_HORIZ_SINGLE (18)
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: 5
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: BTN_LORANGE_RECT_IN
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 381
+        height: 138
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_LORANGE_RECT_OUT
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 0
+        width: 381
+        height: 138
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_BLUE_RECT_OUT
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 0
+        width: 381
+        height: 138
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_RED_RECT_IN
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 0
+        width: 381
+        height: 138
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_GREEN_RECT_OUT
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 0
+        width: 381
+        height: 138
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_GREEN_RECT_IN
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 139
+        width: 381
+        height: 138
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_GRAY_RECT_IN
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 139
+        width: 381
+        height: 138
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_ORANGE_RECT_OUT
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 139
+        width: 381
+        height: 138
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_GRAY_RECT_OUT
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 139
+        width: 381
+        height: 138
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_BLUE_RECT_IN
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 139
+        width: 381
+        height: 138
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_ORANGE_RECT_IN
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 278
+        width: 381
+        height: 138
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_RED_RECT_OUT
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 278
+        width: 381
+        height: 138
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_ORANGE_CIRCLE_OUT
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 278
+        width: 138
+        height: 142
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_LORANGE_CIRCLE_IN
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 417
+        width: 138
+        height: 142
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_GRAY_CIRCLE_IN
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 417
+        width: 138
+        height: 142
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_RED_CIRCLE_IN
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 417
+        width: 138
+        height: 142
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_RED_CIRCLE_OUT
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 417
+        width: 138
+        height: 142
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_BLUE_CIRCLE_IN
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 417
+        width: 138
+        height: 142
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_GRAY_CIRCLE_OUT
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 421
+        width: 138
+        height: 142
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_ORANGE_CIRCLE_IN
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 138
+        height: 142
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_BLUE_CIRCLE_OUT
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 560
+        width: 138
+        height: 142
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_LORANGE_CIRCLE_OUT
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 560
+        width: 138
+        height: 142
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_GREEN_CIRCLE_OUT
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 560
+        width: 138
+        height: 142
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_GREEN_CIRCLE_IN
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 560
+        width: 138
+        height: 142
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_GREEN_SQ
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 0
+        width: 114
+        height: 94
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_RED_SQ
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 95
+        width: 114
+        height: 94
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_BLK_TYPE_STATE (28)
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 190
+        width: 114
+        height: 94
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_ORANGE_SQ
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 564
+        width: 114
+        height: 94
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_GRAY_SQ
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 659
+        width: 114
+        height: 94
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_BLUE_SQ
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 703
+        width: 114
+        height: 94
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_SLIDER (1)
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 703
+        width: 181
+        height: 45
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_SLIDER (3)
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 703
+        width: 181
+        height: 45
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_SLIDER (6)
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 703
+        width: 181
+        height: 45
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_SLIDER (8)
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 749
+        width: 181
+        height: 45
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_SLIDER (10)
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 749
+        width: 181
+        height: 45
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_SLIDER (9)
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 749
+        width: 181
+        height: 45
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_SLIDER (2)
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 754
+        width: 181
+        height: 45
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_SLIDER (5)
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 795
+        width: 181
+        height: 45
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_SLIDER (11)
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 795
+        width: 181
+        height: 45
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_SLIDER (4)
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 795
+        width: 181
+        height: 45
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_SLIDER (12)
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 564
+        width: 181
+        height: 45
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_SLIDER (7)
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 421
+        width: 181
+        height: 45
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_VERT_ (12)
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 798
+        width: 55
+        height: 115
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_VERT_ (11)
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 798
+        width: 55
+        height: 115
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_VERT_ (13)
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 278
+        width: 55
+        height: 115
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_VERT_ (1)
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 278
+        width: 55
+        height: 115
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_VERT_ (16)
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 278
+        width: 55
+        height: 115
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_VERT_ (22)
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 610
+        width: 55
+        height: 115
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_VERT_ (23)
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 800
+        width: 55
+        height: 115
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_VERT_ (6)
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 841
+        width: 55
+        height: 115
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_VERT_ (7)
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 841
+        width: 55
+        height: 115
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_VERT_ (15)
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 841
+        width: 55
+        height: 115
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_VERT_ (17)
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 841
+        width: 55
+        height: 115
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_VERT_ (19)
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 841
+        width: 55
+        height: 115
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_VERT_ (25)
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 841
+        width: 55
+        height: 115
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_VERT_ (2)
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 841
+        width: 55
+        height: 115
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_VERT_ (18)
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 841
+        width: 55
+        height: 115
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_VERT_ (28)
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 841
+        width: 55
+        height: 115
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_VERT_ (27)
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 800
+        width: 55
+        height: 115
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_VERT_ (9)
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 800
+        width: 55
+        height: 115
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_VERT_ (5)
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 800
+        width: 55
+        height: 115
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_VERT_ (14)
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 610
+        width: 55
+        height: 115
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_VERT_ (30)
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 726
+        width: 55
+        height: 115
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_VERT_ (4)
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 610
+        width: 55
+        height: 115
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_VERT_ (21)
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 842
+        width: 55
+        height: 115
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_VERT_ (3)
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 726
+        width: 55
+        height: 115
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_VERT_ (26)
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 610
+        width: 55
+        height: 115
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_VERT_ (10)
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 467
+        width: 55
+        height: 115
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_VERT_ (29)
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 842
+        width: 55
+        height: 115
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_VERT_ (8)
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 726
+        width: 55
+        height: 115
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_VERT_ (24)
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 583
+        width: 55
+        height: 115
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_VERT_ (20)
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 394
+        width: 55
+        height: 115
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_SLIDER_SM (2)
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 914
+        width: 69
+        height: 52
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_SLIDER_SM (6)
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 467
+        width: 69
+        height: 52
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_SLIDER_SM (12)
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 467
+        width: 69
+        height: 52
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_SLIDER_SM (4)
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 916
+        width: 69
+        height: 52
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_SLIDER_SM (9)
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 916
+        width: 69
+        height: 52
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_SLIDER_SM (5)
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 916
+        width: 69
+        height: 52
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_PLAIN (3)
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 967
+        width: 69
+        height: 52
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_SLIDER_SM (8)
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 957
+        width: 69
+        height: 52
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_PLAIN (4)
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 957
+        width: 69
+        height: 52
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_PLAIN (5)
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 957
+        width: 69
+        height: 52
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_SLIDER_SM (11)
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 957
+        width: 69
+        height: 52
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_SLIDER_SM (7)
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 957
+        width: 69
+        height: 52
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_SLIDER_SM (10)
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 957
+        width: 69
+        height: 52
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_SLIDER_SM (1)
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 957
+        width: 69
+        height: 52
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_PLAIN (6)
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 510
+        width: 69
+        height: 52
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_PLAIN (2)
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 958
+        width: 69
+        height: 52
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_PLAIN (1)
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 969
+        width: 69
+        height: 52
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_SLIDER_SM (3)
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 969
+        width: 69
+        height: 52
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_CHECKBOX_IN
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 958
+        width: 58
+        height: 60
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_CHECKBOX_OUT
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 958
+        width: 51
+        height: 55
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_RADIO_IN
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 969
+        width: 49
+        height: 53
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_RADIO_OUT
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 969
+        width: 49
+        height: 53
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_HORIZ_SINGLE (15)
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 278
+        width: 45
+        height: 52
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_HORIZ_SINGLE (22)
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 331
+        width: 45
+        height: 52
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_HORIZ_SINGLE (2)
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 384
+        width: 45
+        height: 52
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_HORIZ_SINGLE (8)
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 437
+        width: 45
+        height: 52
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_HORIZ_SINGLE (14)
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 278
+        width: 45
+        height: 52
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_HORIZ_SINGLE (4)
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 331
+        width: 45
+        height: 52
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_HORIZ_SINGLE (19)
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 842
+        width: 45
+        height: 52
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_HORIZ_SINGLE (17)
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 895
+        width: 45
+        height: 52
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_HORIZ_SINGLE (1)
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 948
+        width: 45
+        height: 52
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_HORIZ_SINGLE (16)
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 842
+        width: 45
+        height: 52
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_HORIZ_SINGLE (12)
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 895
+        width: 45
+        height: 52
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_HORIZ_SINGLE (20)
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 948
+        width: 45
+        height: 52
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_HORIZ_SINGLE (10)
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 699
+        width: 45
+        height: 52
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_HORIZ_SINGLE (5)
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 752
+        width: 45
+        height: 52
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_HORIZ_SINGLE (23)
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 563
+        width: 45
+        height: 52
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_HORIZ_SINGLE (6)
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 490
+        width: 45
+        height: 52
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_HORIZ_SINGLE (3)
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 616
+        width: 45
+        height: 52
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_HORIZ_SINGLE (21)
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 384
+        width: 45
+        height: 52
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_HORIZ_SINGLE (9)
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 437
+        width: 45
+        height: 52
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_HORIZ_SINGLE (24)
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 278
+        width: 45
+        height: 52
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_HORIZ_SINGLE (13)
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 331
+        width: 45
+        height: 52
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_HORIZ_SINGLE (11)
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 805
+        width: 45
+        height: 52
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_HORIZ_SINGLE (7)
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 858
+        width: 45
+        height: 52
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BTN_HORIZ_SINGLE (18)
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 911
+        width: 45
+        height: 52
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

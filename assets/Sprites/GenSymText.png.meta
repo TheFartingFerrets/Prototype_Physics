@@ -1,0 +1,454 @@
+fileFormatVersion: 2
+guid: eeb0d3d6ea73cfe4184dc0b9870b91b2
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: TEXT_HIGHSCORE
+    21300002: TEXT_PAUSE
+    21300004: TEXT_START
+    21300006: TEXT_MENU
+    21300008: TEXT_NEXT
+    21300010: TEXT_HELP
+    21300012: SYMB_VOLUME
+    21300014: SYMB_LEADER
+    21300016: SYMB_SETTINGS
+    21300018: SYMB_REPLAY
+    21300020: SYMB_ BIGX
+    21300022: SYMB_AWARD
+    21300024: SYMB_CHECK
+    21300026: SYMB_RR
+    21300028: SYMB_LEFTARROW
+    21300030: SYMB_FF
+    21300032: SYMB_ RIGHTARROW
+    21300034: SYMB_STOP
+    21300036: SYMB_PLAY
+    21300038: SYMB_HELP
+    21300040: SYMB_PLUS
+    21300042: SYMB_MUTE
+    21300044: SYMB_MENU
+    21300046: SYMB_X
+    21300048: SYMB_PAUSE
+    21300050: SYMB_4
+    21300052: SYMB_0
+    21300054: SYMB_INFO
+    21300056: SYMB_6
+    21300058: SYMB_9
+    21300060: SYMB_2
+    21300062: SYMB_3
+    21300064: SYMB_5
+    21300066: SYMB_7
+    21300068: SYMB_8
+    21300070: SYMB_1
+    21300072: SYMB_WARNING
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: 5
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: TEXT_HIGHSCORE
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 451
+        height: 61
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TEXT_PAUSE
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 0
+        width: 244
+        height: 61
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TEXT_START
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 0
+        width: 247
+        height: 60
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TEXT_MENU
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 61
+        width: 222
+        height: 60
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TEXT_NEXT
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62
+        width: 205
+        height: 59
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TEXT_HELP
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 62
+        width: 197
+        height: 58
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SYMB_VOLUME
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 61
+        width: 89
+        height: 85
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SYMB_LEADER
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 62
+        width: 98
+        height: 77
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SYMB_SETTINGS
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 121
+        width: 87
+        height: 86
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SYMB_REPLAY
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 121
+        width: 92
+        height: 79
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SYMB_ BIGX
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 122
+        width: 88
+        height: 80
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SYMB_AWARD
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 122
+        width: 82
+        height: 85
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SYMB_CHECK
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 203
+        width: 81
+        height: 83
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SYMB_RR
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 62
+        width: 96
+        height: 65
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SYMB_LEFTARROW
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 62
+        width: 93
+        height: 66
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SYMB_FF
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 122
+        width: 99
+        height: 61
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SYMB_ RIGHTARROW
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 128
+        width: 96
+        height: 58
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SYMB_STOP
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 129
+        width: 74
+        height: 74
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SYMB_PLAY
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 140
+        width: 71
+        height: 76
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SYMB_HELP
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 201
+        width: 56
+        height: 88
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SYMB_PLUS
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 187
+        width: 69
+        height: 70
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SYMB_MUTE
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 217
+        width: 75
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SYMB_MENU
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 122
+        width: 79
+        height: 60
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SYMB_X
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 187
+        width: 61
+        height: 61
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SYMB_PAUSE
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 122
+        width: 44
+        height: 75
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SYMB_4
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 0
+        width: 48
+        height: 58
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SYMB_0
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 183
+        width: 46
+        height: 59
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SYMB_INFO
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 183
+        width: 32
+        height: 84
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SYMB_6
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 147
+        width: 44
+        height: 60
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SYMB_9
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 198
+        width: 44
+        height: 60
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SYMB_2
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 147
+        width: 45
+        height: 58
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SYMB_3
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 206
+        width: 44
+        height: 59
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SYMB_5
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 208
+        width: 44
+        height: 59
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SYMB_7
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 259
+        width: 44
+        height: 59
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SYMB_8
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 266
+        width: 44
+        height: 58
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SYMB_1
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 268
+        width: 34
+        height: 58
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SYMB_WARNING
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 129
+        width: 18
+        height: 87
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

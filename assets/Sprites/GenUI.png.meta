@@ -1,0 +1,388 @@
+fileFormatVersion: 2
+guid: 99be57757ba955941ac89187f1df0ac4
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: UI_HOTBAR
+    21300002: UI_FULLBAR
+    21300004: UI_BARFRAME
+    21300006: UI_STAR_LARGE
+    21300008: UI_STAR_NORMAL
+    21300010: UI_STAR_EMTPY
+    21300012: UI_COLORBAR (1)
+    21300014: UI_COLORBAR (3)
+    21300016: UI_COLORBAR (4)
+    21300018: UI_COLORBAR (2)
+    21300020: UI_ETCBAR (3)
+    21300022: UI_ETCBAR (2)
+    21300024: UI_ETCBAR (1)
+    21300026: UI_HEART_FULL
+    21300028: UI_HEART_HALF
+    21300030: UI_HEART_EMPTY
+    21300032: UI_BARMARKINGS
+    21300034: UI_LOCK_OPEN
+    21300036: UI_BOLT
+    21300038: UI_INPUT
+    21300040: UI_COIN
+    21300042: UI_LOCK
+    21300044: UI_WINDOW (9)
+    21300046: UI_WINDOW (7)
+    21300048: UI_WINDOW (8)
+    21300050: UI_WINDOW (1)
+    21300052: UI_WINDOW (4)
+    21300054: UI_WINDOW (5)
+    21300056: UI_WINDOW (2)
+    21300058: UI_WINDOW (3)
+    21300060: UI_WINDOW (6)
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: 5
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: UI_HOTBAR
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1024
+        height: 104
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_FULLBAR
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 105
+        width: 1024
+        height: 47
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_BARFRAME
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 153
+        width: 1024
+        height: 47
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_STAR_LARGE
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 201
+        width: 194
+        height: 204
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_STAR_NORMAL
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 406
+        width: 194
+        height: 195
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_STAR_EMTPY
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 602
+        width: 194
+        height: 193
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_COLORBAR (1)
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 796
+        width: 1017
+        height: 35
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_COLORBAR (3)
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 1017
+        height: 35
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_COLORBAR (4)
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 868
+        width: 1017
+        height: 35
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_COLORBAR (2)
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 904
+        width: 1017
+        height: 35
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_ETCBAR (3)
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 201
+        width: 354
+        height: 86
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_ETCBAR (2)
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 201
+        width: 354
+        height: 86
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_ETCBAR (1)
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 288
+        width: 354
+        height: 86
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_HEART_FULL
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 288
+        width: 154
+        height: 171
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_HEART_HALF
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 375
+        width: 154
+        height: 153
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_HEART_EMPTY
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 375
+        width: 154
+        height: 153
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_BARMARKINGS
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 940
+        width: 1024
+        height: 22
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_LOCK_OPEN
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 288
+        width: 149
+        height: 132
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_BOLT
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 201
+        width: 91
+        height: 174
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_INPUT
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 963
+        width: 268
+        height: 54
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_COIN
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 376
+        width: 112
+        height: 117
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_LOCK
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 421
+        width: 96
+        height: 134
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_WINDOW (9)
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 494
+        width: 122
+        height: 93
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_WINDOW (7)
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 460
+        width: 122
+        height: 93
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_WINDOW (8)
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 529
+        width: 122
+        height: 93
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_WINDOW (1)
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 529
+        width: 122
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_WINDOW (4)
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 554
+        width: 122
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_WINDOW (5)
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 594
+        width: 122
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_WINDOW (2)
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 623
+        width: 122
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_WINDOW (3)
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 554
+        width: 122
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_WINDOW (6)
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 588
+        width: 122
+        height: 64
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

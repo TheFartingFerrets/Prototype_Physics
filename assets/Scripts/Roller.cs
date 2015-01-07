@@ -3,51 +3,44 @@ using System.Collections;
 
 public class Roller : MonoBehaviour 
 {
-    public Vector2 startPos = new Vector2();
-    public Vector2 velocity;
+    [SerializeField]
+    Vector2 StartPosition;
 
     void Awake()
     {
-        startPos = transform.position;
+        StartPosition = this.rigidbody2D.position;
+        Sleep();
+
+    }
+	void Start () 
+    {
+	
+	}
+	
+	void Update ()
+    {
+	
+	}
+
+    public void Sleep()
+    {
+        rigidbody2D.velocity = Vector2.zero;
+        rigidbody2D.isKinematic = true;
     }
 
-    void Start()
+    public void WakeUp()
     {
-        transform.position = startPos;
-        transform.rotation = Quaternion.Euler(0, 0, 0);
-        rigidbody2D.drag = 0;
-    }
-
-
-    void Update()
-    {
-
-        velocity = rigidbody2D.velocity;
-    }
-    public void Play()
-    {
+        rigidbody2D.velocity = Vector2.zero;
+        rigidbody2D.position = StartPosition;
         rigidbody2D.isKinematic = false;
-    }
 
-    public void Restart()
+    }
+    public void Reset()
     {
         rigidbody2D.isKinematic = true;
-        Start();
-    }
 
-    public void Stop()
-    {
-        rigidbody2D.isKinematic = true;
-    }
+        rigidbody2D.position = StartPosition;
+        rigidbody2D.velocity = Vector3.zero;
 
-    public void DecreaseSpeed()
-    {
-        rigidbody2D.drag = rigidbody2D.velocity.magnitude * 2f;
     }
-
-    public void OnDrawGizmos()
-    {
-        Debug.DrawRay(transform.position, transform.up, Color.red);
-    }
-
 }
