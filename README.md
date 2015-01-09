@@ -4,6 +4,13 @@ Prototype_Physics
 Prototype of the physics levels
 
 
+
+level selection master script
+  - Loop through children, unlock/lock and show stars
+levels
+  - locked status
+  - function to show stars
+
 TODO
 =================
 * Prevent portals from working unless given a partner. i.e Receiver to Sender, Sender to Receiver
