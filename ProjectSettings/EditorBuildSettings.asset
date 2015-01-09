@@ -5,13 +5,15 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: assets/Scenes/LevelSelect1.unity
-  - enabled: 0
-    path: Assets/Scenes/Level 1.unity
-  - enabled: 0
-    path: Assets/Scenes/Level 2.unity
-  - enabled: 0
-    path: assets/Scenes/LevelSelect.unity
   - enabled: 1
-    path: assets/Scenes/Level1.unity
+    path: assets/Scenes/Loader.unity
+  - enabled: 1
+    path: assets/Scenes/Main.unity
+  - enabled: 1
+    path: assets/Scenes/Maths/Maths_1.unity
+  - enabled: 1
+    path: assets/Scenes/Physics/Physics_1.unity
+  - enabled: 1
+    path: assets/Scenes/Reflex/Reflex_1.unity
+  - enabled: 1
+    path: assets/Scenes/Collect/Collect_1.unity

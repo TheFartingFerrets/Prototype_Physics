@@ -52,10 +52,10 @@ TextureImporter:
   grayScaleToAlpha: 0
   generateCubemap: 0
   seamlessCubemap: 0
-  textureFormat: 5
+  textureFormat: -3
   maxTextureSize: 4096
   textureSettings:
-    filterMode: 0
+    filterMode: 1
     aniso: 16
     mipBias: -1
     wrapMode: 1
@@ -93,7 +93,7 @@ TextureImporter:
         height: 47
       alignment: 9
       pivot: {x: .5, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 10, y: 16, z: 10, w: 10}
     - name: UI_BARFRAME
       rect:
         serializedVersion: 2
@@ -183,7 +183,7 @@ TextureImporter:
         height: 86
       alignment: 9
       pivot: {x: .5, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 62, y: 16, z: 22, w: 14}
     - name: UI_ETCBAR (2)
       rect:
         serializedVersion: 2
@@ -193,7 +193,7 @@ TextureImporter:
         height: 86
       alignment: 9
       pivot: {x: .5, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 25, y: 30, z: 25, w: 30}
     - name: UI_ETCBAR (1)
       rect:
         serializedVersion: 2
@@ -300,10 +300,10 @@ TextureImporter:
         x: 802
         y: 494
         width: 122
-        height: 93
+        height: 88
       alignment: 9
       pivot: {x: .5, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 0, y: 0, z: 0, w: 16}
     - name: UI_WINDOW (7)
       rect:
         serializedVersion: 2
@@ -373,7 +373,7 @@ TextureImporter:
         height: 64
       alignment: 9
       pivot: {x: .5, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 0, y: 12, z: 0, w: 0}
     - name: UI_WINDOW (6)
       rect:
         serializedVersion: 2

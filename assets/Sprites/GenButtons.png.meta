@@ -139,10 +139,10 @@ TextureImporter:
   grayScaleToAlpha: 0
   generateCubemap: 0
   seamlessCubemap: 0
-  textureFormat: 5
+  textureFormat: -3
   maxTextureSize: 4096
   textureSettings:
-    filterMode: 0
+    filterMode: 1
     aniso: 16
     mipBias: -1
     wrapMode: 1
@@ -950,7 +950,7 @@ TextureImporter:
         height: 52
       alignment: 9
       pivot: {x: .5, y: .5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 24, y: 17, z: 22, w: 13}
     - name: BTN_SLIDER_SM (8)
       rect:
         serializedVersion: 2
