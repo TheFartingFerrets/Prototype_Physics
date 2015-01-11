@@ -12,8 +12,72 @@ EditorBuildSettings:
   - enabled: 1
     path: assets/Scenes/Maths/Maths_1.unity
   - enabled: 1
+    path: assets/Scenes/Maths/Maths_2.unity
+  - enabled: 1
+    path: assets/Scenes/Maths/Maths_3.unity
+  - enabled: 1
+    path: assets/Scenes/Maths/Maths_4.unity
+  - enabled: 1
+    path: assets/Scenes/Maths/Maths_5.unity
+  - enabled: 1
+    path: assets/Scenes/Maths/Maths_6.unity
+  - enabled: 1
+    path: assets/Scenes/Maths/Maths_7.unity
+  - enabled: 1
+    path: assets/Scenes/Maths/Maths_8.unity
+  - enabled: 1
+    path: assets/Scenes/Maths/Maths_9.unity
+  - enabled: 1
     path: assets/Scenes/Physics/Physics_1.unity
+  - enabled: 1
+    path: assets/Scenes/Physics/Physics_2.unity
+  - enabled: 1
+    path: assets/Scenes/Physics/Physics_3.unity
+  - enabled: 1
+    path: assets/Scenes/Physics/Physics_4.unity
+  - enabled: 1
+    path: assets/Scenes/Physics/Physics_5.unity
+  - enabled: 1
+    path: assets/Scenes/Physics/Physics_6.unity
+  - enabled: 1
+    path: assets/Scenes/Physics/Physics_7.unity
+  - enabled: 1
+    path: assets/Scenes/Physics/Physics_8.unity
+  - enabled: 1
+    path: assets/Scenes/Physics/Physics_9.unity
+  - enabled: 1
+    path: assets/Scenes/Collect/Collect_1.unity
+  - enabled: 1
+    path: assets/Scenes/Collect/Collect_2.unity
+  - enabled: 1
+    path: assets/Scenes/Collect/Collect_3.unity
+  - enabled: 1
+    path: assets/Scenes/Collect/Collect_4.unity
+  - enabled: 1
+    path: assets/Scenes/Collect/Collect_5.unity
+  - enabled: 1
+    path: assets/Scenes/Collect/Collect_6.unity
+  - enabled: 1
+    path: assets/Scenes/Collect/Collect_7.unity
+  - enabled: 1
+    path: assets/Scenes/Collect/Collect_8.unity
+  - enabled: 1
+    path: assets/Scenes/Collect/Collect_9.unity
   - enabled: 1
     path: assets/Scenes/Reflex/Reflex_1.unity
   - enabled: 1
-    path: assets/Scenes/Collect/Collect_1.unity
+    path: assets/Scenes/Reflex/Reflex_2.unity
+  - enabled: 1
+    path: assets/Scenes/Reflex/Reflex_3.unity
+  - enabled: 1
+    path: assets/Scenes/Reflex/Reflex_4.unity
+  - enabled: 1
+    path: assets/Scenes/Reflex/Reflex_5.unity
+  - enabled: 1
+    path: assets/Scenes/Reflex/Reflex_6.unity
+  - enabled: 1
+    path: assets/Scenes/Reflex/Reflex_7.unity
+  - enabled: 1
+    path: assets/Scenes/Reflex/Reflex_8.unity
+  - enabled: 1
+    path: assets/Scenes/Reflex/Reflex_9.unity

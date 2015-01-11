@@ -3,6 +3,9 @@
 --- !u!78 &1
 TagManager:
   tags:
+  - Menu
+  - World
+  - Level
   - Roller
   - Target
   - StaticAsset
