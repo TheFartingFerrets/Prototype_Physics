@@ -31,4 +31,12 @@ public class CanvasControl : MonoBehaviour
         this.GetComponent<CanvasGroup>().interactable = false;
         this.GetComponent<CanvasGroup>().blocksRaycasts = false;
     }
+    public void DisableInteraction()
+    {
+        this.GetComponent<CanvasGroup>().interactable = false;
+    }
+    public void EnableInteraction()
+    {
+        this.GetComponent<CanvasGroup>().interactable = true;
+    }
 }

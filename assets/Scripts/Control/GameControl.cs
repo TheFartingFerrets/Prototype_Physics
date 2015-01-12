@@ -33,6 +33,23 @@ public class GameControl : MonoBehaviour
         DontDestroyOnLoad(this);
         MenuCanvas = GameObject.Find("MenuCanvas");
     }
+
+    public void ControlUISleep()
+    {
+        transform.GetChild(1).gameObject.SetActive(false);
+    }
+    public void ControlUIWake()
+    {
+        transform.GetChild(1).gameObject.SetActive(true);
+    }
+    public void CameraSleep()
+    {
+        transform.GetChild(0).gameObject.SetActive(false);
+    }
+    public void CameraWake()
+    {
+        transform.GetChild(0).gameObject.SetActive(true);
+    }
     void Start()
     {
         LoadData();
@@ -61,9 +78,17 @@ public class GameControl : MonoBehaviour
     void ApplicationQuit()
     {
         if (GameState == GameState.inLevel)
+        {
+            ControlUIWake();
+            CameraWake();
             LoadToLevelSelect();
+        }
         if (GameState == GameState.inLevelSelect)
+        {
+            ControlUIWake();
+            CameraWake();
             LoadMain();
+        }
         if( GameState == GameState.inMain)
             Application.Quit();
     }

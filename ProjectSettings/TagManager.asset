@@ -6,10 +6,13 @@ TagManager:
   - Menu
   - World
   - Level
+  - PhysicStaticAsset
+  - PhysicLevelAsset
+  - PhysicsRoller
+  - PhysicsLevelControl
+  - StaticAsset
   - Roller
   - Target
-  - StaticAsset
-  - LevelAsset
   - 
   Builtin Layer 0: Default
   Builtin Layer 1: TransparentFX
@@ -19,8 +22,8 @@ TagManager:
   Builtin Layer 5: UI
   Builtin Layer 6: 
   Builtin Layer 7: 
-  User Layer 8: Asset
-  User Layer 9: AssetInner
+  User Layer 8: PhysicsLevelAsset
+  User Layer 9: PhysicsEditor
   User Layer 10: 
   User Layer 11: 
   User Layer 12: 
